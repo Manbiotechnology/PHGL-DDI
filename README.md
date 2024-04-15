@@ -22,6 +22,8 @@ DrugBank dataset : contains 191,808 DDI tuples with 1706 drugs, each drug is rep
 
 ChCh-Miner dataset : contains 959 drugs and 33,669 DDIs, with each row of data containing the IDs of the two drugs and their corresponding SMILES.
 
+Zhang dataset
+
 ### If you want to know more about our work, you can refer to the following documents:
 
 [1] Gao Z, Jiang C, Zhang J, et al. Hierarchical graph learning for protein-protein interaction. Nat Commun. 2023;14(1):1093. Published 2023 Feb 25. doi:10.1038/s41467-023-36736-1.
