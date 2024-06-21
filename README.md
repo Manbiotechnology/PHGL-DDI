@@ -13,7 +13,11 @@ python=3.7.12
 <br> torch-geometric= 2.0.4
 
 ## Service
-GeForce RTX 4090 GPU
+GPU: NVIDIA GeForce RTX 4090 GPUs were used for model training. Each GPU has 24GB of memory, which accelerates large-scale matrix operations and deep learning model training.
+
+CPU: The system is equipped with an Intel 13900KF processor, featuring 24 cores to support data preprocessing and other computational tasks.
+
+Memory: The system memory is configured with 64GB to ensure there are no bottlenecks when handling large-scale datasets.
 
 ## Dataset Preparation
 PubChem dataset ：contains15.56 million unlabeled molecules，each molecule is represented by SMILES. 
